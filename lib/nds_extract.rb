@@ -8,7 +8,7 @@ def gross_for_director(director_data)
   nil
   total = 0 
   i = 0 
-  while i < director_data[:movies].length do
+  while i < nds.size do
     total+= director_data[:movies][:worldwide_grosses]
   end
 end
