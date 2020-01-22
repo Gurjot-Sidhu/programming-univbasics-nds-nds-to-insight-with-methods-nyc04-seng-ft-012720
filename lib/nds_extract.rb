@@ -6,10 +6,9 @@ require 'directors_database'
 def gross_for_director(director_data)
   result ={}
   nil
-  total = 0 
   i = 0 
   while i < nds.size do
-    total+= director_data[:movies][:worldwide_grosses]
+    total+= director_da
   end
 end
 
