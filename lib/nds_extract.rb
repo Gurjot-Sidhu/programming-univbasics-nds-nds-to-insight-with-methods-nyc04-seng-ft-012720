@@ -21,6 +21,6 @@ def directors_totals(nds)
   result = {}
   i = 0 
   total = 0 
-  
+  while i <
   nil
 end
