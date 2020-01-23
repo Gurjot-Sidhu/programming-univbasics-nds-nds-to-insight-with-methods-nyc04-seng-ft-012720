@@ -8,7 +8,7 @@ def gross_for_director(director_data)
   nil
   i = 0 
   while i < nds.size do
-    director = [nds]
+    director = nds[i]
   end
 end
 
